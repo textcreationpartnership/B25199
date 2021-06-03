@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King James R. Whereas we have issued a proclamation bearing date the fourteenth day of September one thousand six hundred eighty nine, declaring, that such as should bring any wine or brandy to our camp, should be exempted from the duty payable to us out of such wine and brandy: ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25199</idno><idno type="EEBO-CITATION">99886393</idno>
+  <idno type="VID">186650</idno>
+  <idno type="EEBO-PROQUEST">2264216404</idno>
+  
+            <idno type="STC">Wing J410</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[76]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[85]</idno>
+            <idno type="STC">ESTC R225949</idno>
+            <idno type="PROQUEST">ocm99886393</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886393e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186650)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[76]; C23:1[85])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King James R. Whereas we have issued a proclamation bearing date the fourteenth day of September one thousand six hundred eighty nine, declaring, that such as should bring any wine or brandy to our camp, should be exempted from the duty payable to us out of such wine and brandy: ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham, assigns of Benj. Tooke printer to the King's most excellent Majesty; and are to be sold at his Majesties printing house on Ormonde-Key, and the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>"Given at our camp near our town of Atherdee the 8th day of October 1689."</note>
+                  <note>Revoking the free import of wines and spirits.</note>
+                  <note>Arms 186.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine-making --  Taxation --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Trade regulation --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186650:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of James II</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT.</q>
+               </figure>
+            </head>
+            <head>BY THE KING</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>VVHeres We have issued a Proclamation bearing date the fourteenth day of September one thousand six hundred eighty nine, declaring, That such as should bring any Wine or Brandy to Our Camp, should be exempted from the Duty pay<g ref="char:EOLhyphen"/>able to VS out of such Wine and Brandy: Which Proclamation We have issued, to the end that great quantities of Wine and Brandy might be brought to Our Camp, and there sold at reasonable rates. And be<g ref="char:EOLhyphen"/>ing now fully informed, that Our Troops have received no manner of advantage by Our said Declaration; but on the contrary, that the same was made use of by some particular persons, who taking advantage thereof, endeavour'd to ingrose into their own Hands all the Wine and Brandy they could find, in order to sell the same at high rates to Our Army, which they have done accordingly. And since the said Declara<g ref="char:EOLhyphen"/>tion tends to diminish Our Revenue, without any advantage, but rather disadvantage to Our Troops, in whose favour it was published. We have therefore thought fit, from henceforth to revoke; And We do hereby revoke the said Declaration, as to so much thereof as relates to abate of the Duties due to Vs out of wine and Brandy, and make null and void the same, and all the matters therein contained, as far forth as it exempts any person or persons from paying the Duties of wine and Brandy.</p>
+            <closer>
+               <dateline>Given at Our Camp near Our Town of Atherdee <date>the 8th day of October 1689. And in the Fifth Year of Our Reign.</date>
+               </dateline>
+               <signed>By His Majesties Command. RI. NAGLE.</signed>
+            </closer>
+            <closer>God Save The KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham,</hi> Assigns of <hi>Benj. Tooke</hi> Printer to the King's Most Excellent Majesty; And are to be sold at His Ma<g ref="char:EOLhyphen"/>jesties Printing House on <hi>Ormonde-Key,</hi> and at the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
